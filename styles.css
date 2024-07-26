@@ -1,0 +1,87 @@
+.col-9{
+    display: flex;
+}
+.fa-brands{
+    padding-top: 15px;
+    padding-inline-start: 30px;
+    padding-inline-end: 5px;
+}
+.icons-modal{
+    display: flex;
+}
+.camera {
+    width: 35px;
+    height: 30px;
+    border: 1px solid rgb(205 205 205);
+    background-color: rgb(243, 243, 243);
+    margin: 10px 15px;
+    border-radius: 3px;
+}
+.ubication {
+    width: 35px;
+    height: 30px;
+    border: 1px solid rgb(205 205 205);
+    background-color: rgb(243, 243, 243);
+    margin: 10px 2px;
+    border-radius: 3px;
+}
+
+.fa-solid.fa-location-dot {
+    padding: 5px 10px;
+}
+
+.fa-solid.fa-camera {
+    padding: 5px 9px;
+}
+
+.btn-group {
+    padding-inline-start: 30px;
+}
+
+.imagen1{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen2{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen3{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen4{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen5{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen6{
+    width: 420px;
+    height: 420px;
+}
+.imagen7{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen8{
+    width: 420px;
+    height: 420px;
+}
+
+.imagen9{
+    width: 420px;
+    height: 420px;
+}
+
+.card-title {
+    padding-left: 20px;
+}
